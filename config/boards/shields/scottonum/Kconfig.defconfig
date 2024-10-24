@@ -1,0 +1,6 @@
+if SHIELD_EXONUMPAD
+
+config ZMK_KEYBOARD_NAME
+    default "ExoNumpad"
+
+endif
